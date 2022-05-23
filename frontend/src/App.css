@@ -1,0 +1,36 @@
+.signup{
+    width: 50%;
+    background-color: rgb(216, 229, 240);
+}
+
+.login{
+    width: 50%;
+    background-color: rgb(216, 229, 240);
+}
+
+.addproblem{
+    width: 70%;
+    background-color: rgb(225, 225, 225);
+}
+
+.problemTable{
+    width: 94%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.about{
+    font-size: 20px;
+    color: rgb(247, 247, 247);
+    margin-top: 50px;
+    background-color: rgb(124, 100, 100);
+    padding: 30px;
+}
+
+.home{
+    font-size: 20px;
+    color: rgb(12, 6, 6);
+    margin-top: 50px;
+    /* background-color: rgb(245, 243, 243); */
+    padding: 30px;
+}

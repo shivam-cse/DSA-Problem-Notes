@@ -1,5 +1,5 @@
 # DSA-Problem-Notes
-This is platform to submit your DSA related problems. It is really helpful for those people who have started their coding. Students can mark down their notes so that they can remmeber problem logic
+This is a platform to submit your DSA-related problems. It is really helpful for those people who have started their coding. Students can mark down their notes to remember the problem-solving logic.
 
 # Home Page 
 ![home](https://user-images.githubusercontent.com/56253080/169805083-64a7b17c-c59b-4490-b345-32f79ddf5d6b.png)

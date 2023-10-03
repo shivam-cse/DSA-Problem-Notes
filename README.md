@@ -1,5 +1,8 @@
 # DSA-Problem-Notes
-This is a platform to submit your DSA-related problems. It is really helpful for those people who have started their coding. Students can mark down their notes to remember the problem-solving logic.
+It is a platform where you can submit your DSA-related problems. Additionally, you can create notes for specific problems.
+
+# Techstack used
+React for frontent, contextApi & useState for state managment. expressjs & mongoDB for backend. bcrypt & JWT used to deal with user password & authentication
 
 # Home Page 
 ![home](https://user-images.githubusercontent.com/56253080/169805083-64a7b17c-c59b-4490-b345-32f79ddf5d6b.png)
